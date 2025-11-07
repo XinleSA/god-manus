@@ -1,0 +1,17 @@
+{
+    "name": "guardians-of-dafeng",
+    "version": "2.4.0",
+    "description": "A cultivation RPG based on the Guardians of Dafeng series",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "rpg",
+        "game",
+        "cultivation",
+        "dafeng"
+    ],
+    "author": "Manus AI",
+    "license": "MIT"
+}

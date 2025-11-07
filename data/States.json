@@ -1,0 +1,28 @@
+[
+  null,
+  {
+    "id": 1,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "State",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepAnime": false,
+    "traits": []
+  }
+]

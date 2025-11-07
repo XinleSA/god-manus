@@ -1,0 +1,43 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 5,
+        "description": "Simple robes worn by commoners and new disciples.",
+        "etypeId": 4,
+        "iconIndex": 135,
+        "name": "Commoner's Robes",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 30
+    },
+    {
+        "id": 2,
+        "atypeId": 5,
+        "description": "Robes worn by scholars of the Dafeng Academy.",
+        "etypeId": 4,
+        "iconIndex": 136,
+        "name": "Scholarly Robes",
+        "note": "",
+        "params": [
+            10,
+            10,
+            0,
+            10,
+            10,
+            10,
+            0,
+            0
+        ],
+        "price": 200
+    }
+]

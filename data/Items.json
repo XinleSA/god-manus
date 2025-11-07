@@ -1,0 +1,121 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "A common herb that restores a small amount of health.",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 100
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "Healing Herb",
+        "note": "",
+        "occasion": 0,
+        "price": 10,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "A pill that restores a small amount of spiritual energy.",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 50
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 177,
+        "itypeId": 1,
+        "name": "Spirit Pill",
+        "note": "",
+        "occasion": 0,
+        "price": 20,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "A mysterious key found on the scholar. It seems to open something important.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 195,
+        "itypeId": 2,
+        "name": "Scholar's Key",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "A powerful artifact stolen from the Imperial Vault.",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 210,
+        "itypeId": 2,
+        "name": "Dragon's Tear",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    }
+]
