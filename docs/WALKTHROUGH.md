@@ -10,7 +10,9 @@
 ## Main Quests
 
 ### 1. The Missing Scholar
-**Location**: Dafeng Academy  
+**Location**: Dafeng Academy
+
+![Dafeng Academy](../img/parallaxes/DafengAcademy.png)  
 **Objective**: Investigate the disappearance of Scholar Wei
 
 **Walkthrough**:
@@ -27,7 +29,9 @@
 ---
 
 ### 2. The Sangbo Lake Mystery
-**Location**: Sangbo Lake  
+**Location**: Sangbo Lake
+
+![Sangbo Lake](../img/parallaxes/SangboLake.png)  
 **Objective**: Solve the mystery of the glowing waters
 
 **Walkthrough**:
@@ -44,7 +48,9 @@
 ---
 
 ### 3. The Shadow in the Capital
-**Location**: Imperial Capital  
+**Location**: Imperial Capital
+
+![Imperial Capital](../img/parallaxes/ImperialCapital.png)  
 **Objective**: Investigate mysterious assassinations
 
 **Walkthrough**:
@@ -62,7 +68,11 @@
 ---
 
 ### 4. The Lost Heirloom
-**Location**: Various (starts at Imperial Palace)  
+**Location**: Various (starts at Imperial Palace)
+
+![Imperial Vault](../img/parallaxes/ImperialVault.png)
+![Mountain Pass](../img/parallaxes/MountainPass.png)
+![Underground Lair](../img/parallaxes/UndergroundLair.png)  
 **Objective**: Recover the stolen Dragon's Tear artifact
 
 **Walkthrough**:
@@ -80,7 +90,9 @@
 ---
 
 ### 5. The Celestial Tournament
-**Location**: Celestial Arena  
+**Location**: Celestial Arena
+
+![Celestial Arena](../img/parallaxes/CelestialArena.png)  
 **Objective**: Compete in the martial arts tournament
 
 **Walkthrough**:
@@ -100,7 +112,9 @@
 ## Side Quests
 
 ### 1. The Haunted Temple
-**Location**: Ancient Temple  
+**Location**: Ancient Temple
+
+![Ancient Temple](../img/parallaxes/AncientTemple.png)  
 **Objective**: Cleanse the temple of evil spirits
 
 **Walkthrough**:
@@ -115,7 +129,9 @@
 ---
 
 ### 2. The Lost Caravan
-**Location**: Mountain Pass  
+**Location**: Mountain Pass
+
+![Mountain Pass](../img/parallaxes/MountainPass.png)  
 **Objective**: Find the missing merchant caravan
 
 **Walkthrough**:
@@ -130,7 +146,9 @@
 ---
 
 ### 3. The Missing Child
-**Location**: Village outskirts  
+**Location**: Village outskirts
+
+![Enchanted Forest](../img/parallaxes/EnchantedForest.png)  
 **Objective**: Rescue a child lost in the enchanted forest
 
 **Walkthrough**:
@@ -160,7 +178,9 @@
 ---
 
 ### 5. The Master's Test
-**Location**: Dafeng Academy  
+**Location**: Dafeng Academy
+
+![Dafeng Academy](../img/parallaxes/DafengAcademy.png)  
 **Objective**: Complete advanced cultivation trials
 
 **Walkthrough**:
@@ -175,7 +195,9 @@
 ---
 
 ### 6. The Alchemist's Request
-**Location**: Crystal Caves  
+**Location**: Crystal Caves
+
+![Crystal Caves](../img/parallaxes/CrystalCaves.png)  
 **Objective**: Gather rare crystals for alchemical research
 
 **Walkthrough**:

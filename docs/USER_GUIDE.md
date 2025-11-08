@@ -11,6 +11,8 @@
 
 ## Getting Started
 
+![Game Title](../img/system/GameTitle.png)
+
 ### System Requirements
 - **RPG Maker MZ Runtime**: Version 1.8.0 or later
 - **Operating System**: Windows 10/11, macOS 10.15+, or Linux Ubuntu 18.04+
@@ -48,6 +50,9 @@ Develop your character's spiritual and martial abilities through cultivation.
 ### Faction Magic Systems
 
 #### Confucian Arts
+
+![Master Chen](../img/faces/MasterChen.png)
+*Master Chen, a wise Confucian master*
 **Philosophy**: Knowledge and righteousness as sources of power
 **Abilities**:
 - **Scholar's Insight**: Reveal hidden knowledge and secrets
@@ -101,6 +106,9 @@ The game supports most standard gamepads:
 ---
 
 ## Character Systems
+
+![Xu Qian](../img/faces/XuQian.png)
+*Xu Qi'an, the protagonist*
 
 ### Character Stats
 - **Level**: Overall character progression (1-50)
@@ -156,5 +164,5 @@ The game features **5 major storylines**:
 
 ---
 
-**Game Version**: 2.4.0  
+**Game Version**: 2.5.0  
 **Total Content**: 17 Quests, 10+ Hours of Gameplay
