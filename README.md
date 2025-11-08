@@ -8,11 +8,15 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 ## 🎬 Gameplay Showcase
 
-<video src="./img/videos/game_showcase.mp4" width="100%" controls="controls" type="video/mp4"></video>
+![Gameplay Showcase](./img/videos/game_showcase.gif)
+
+*Experience the mystical world of Dafeng with traditional Chinese cultivation themes, combat system, and character development.*
 
 ## 🗺️ World Map
 
 ![World Map](./img/system/WorldMap.png)
+
+*Navigate through the ancient world of Dafeng, from the scholarly academy to mystical lakes and imperial capitals.*
 
 ## 🌟 Main Characters
 
@@ -101,4 +105,3 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 ---
 
 **Ready to begin your cultivation journey? Download the project and start exploring the mystical world of ancient China!**
-
