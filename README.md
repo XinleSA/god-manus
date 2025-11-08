@@ -8,7 +8,11 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 ## 🎬 Gameplay Showcase
 
-<video src="./img/videos/game_showcase.mp4" width="100%" controls="controls" type="video/mp4"></video>
+https://github.com/XinleSA/god-manus/assets/168865499/1959a85a-8a5f-459f-855c-755a50a3250a
+
+## 🗺️ World Map
+
+![World Map](https://github.com/XinleSA/god-manus/assets/168865499/2773188a-c5a5-4802-9591-9134a790560c)
 
 ## 🌟 Main Characters
 
@@ -43,23 +47,6 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 | ![Inventory Screen](./img/screenshots/inventory_screen.png) | **Inventory Management**: Organize your items, including healing herbs, spirit pills, and quest-related artifacts. |
 | ![Skill Development](./img/screenshots/skill_development.png) | **Skill Development**: Customize your character's abilities by investing cultivation points into different skill trees. |
 
-## 🗺️ Quest Content
-
-### Main Quests (5)
-1. **The Missing Scholar** - Academic mystery at Dafeng Academy
-2. **The Sangbo Lake Mystery** - Supernatural investigation at the mystical lake
-3. **The Shadow in the Capital** - Political intrigue and assassination plots
-4. **The Lost Heirloom** - Recovery of the legendary Dragon's Tear artifact
-5. **The Celestial Tournament** - Martial arts competition with demonic threats
-
-### Side Quests (12)
-- Temple cleansing and spiritual purification
-- Rescue missions and missing person cases
-- Curse breaking and magical affliction removal
-- Resource gathering and alchemical research
-- Combat challenges and skill testing
-- Local mysteries and community problems
-
 ## 🔧 Technical Specifications
 
 ### RPG Maker MZ Compatibility
@@ -92,17 +79,6 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 - **[Complete Walkthrough](docs/WALKTHROUGH.md)**: Detailed solutions for all quests
 - **[User Guide](docs/USER_GUIDE.md)**: Controls, mechanics, and gameplay tips
-
-## 🌟 Key Features
-
-- ✅ **Complete RPG Maker MZ Project**: Ready to open and edit
-- ✅ **Professional Quality Assets**: Custom graphics and audio
-- ✅ **Rich Narrative Content**: 17 quests with compelling storylines
-- ✅ **Authentic Cultural Setting**: Traditional Chinese themes and aesthetics
-- ✅ **Comprehensive Documentation**: Detailed guides and walkthroughs
-- ✅ **Balanced Gameplay**: Progressive difficulty and character development
-- ✅ **Multiple Magic Systems**: Four distinct philosophical approaches
-- ✅ **Investigation Focus**: Unique mystery-solving gameplay elements
 
 ## 📊 Content Statistics
 
