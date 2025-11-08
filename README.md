@@ -10,7 +10,7 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 ![Gameplay Showcase](./img/videos/game_showcase_extended.gif)
 
-*Experience the complete mystical world of Dafeng with traditional Chinese cultivation themes, character development, quest exploration, combat systems, and magical abilities across four cultivation paths. This extended showcase demonstrates the full scope of gameplay features.*
+*Experience the complete mystical world of Dafeng with traditional Chinese cultivation themes, character development, quest exploration, combat systems, and magical abilities across four cultivation paths. This extended 45-second showcase demonstrates the full scope of gameplay features.*
 
 ## 🗺️ World Map
 
