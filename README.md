@@ -1,10 +1,24 @@
 # Guardians of the Dafeng RPG
 
-![Version](https://img.shields.io/badge/version-2.5.0-blue.svg)
+![Version](https://img.shields.io/badge/version-2.7.0-blue.svg)
 ![RPG Maker MZ](https://img.shields.io/badge/RPG%20Maker%20MZ-1.8.0+-green.svg)
 ![Status](https://img.shields.io/badge/status-Complete-brightgreen.svg)
 
 A comprehensive RPG adventure set in the mystical world of ancient China, inspired by the "Guardians of the Dafeng" series. Experience a rich narrative combining investigation, cultivation, and martial arts in a beautifully crafted traditional Chinese setting.
+
+## 🎬 Gameplay Showcase
+
+<video src="./img/videos/game_showcase.mp4" width="100%" controls="controls" type="video/mp4"></video>
+
+## 🌟 Main Characters
+
+| Portrait | Name | Description |
+|---|---|---|
+| ![Xu Qi'an](./img/faces/XuQian.png) | **Xu Qi'an** | The protagonist, a young scholar with a sharp mind and a strong sense of justice. He becomes entangled in a series of mysteries that threaten the Dafeng Empire. |
+| ![Master Chen](./img/faces/MasterChen.png) | **Master Chen** | The wise and kind master of the Dafeng Academy. He serves as a mentor to Xu Qi'an and guides him on his cultivation journey. |
+| ![Captain Li](./img/faces/CaptainLi.png) | **Captain Li** | The stern and disciplined captain of the Imperial Guard. He is a powerful warrior and a loyal servant of the Emperor. |
+| ![Scholar Wei](./img/characters/Scholar_Wei.png) | **Scholar Wei** | A young scholar from the Dafeng Academy who goes missing under mysterious circumstances, sparking the first main quest. |
+| ![Shadow Master](./img/characters/Shadow_Master.png) | **Shadow Master** | The enigmatic leader of a mysterious organization that operates in the shadows, posing a significant threat to the empire. |
 
 ## 🎮 Game Features
 
@@ -16,9 +30,18 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 ### Technical Features
 - **Complete RPG Maker MZ Project**: Fully functional and ready to edit
-- **Custom Visual Assets**: 15 hand-crafted location maps and character portraits with authentic Chinese aesthetics
+- **Custom Visual Assets**: 15 hand-crafted location maps, character portraits, and UI mockups with authentic Chinese aesthetics
 - **Comprehensive Audio System**: 40 placeholder audio files including BGM, sound effects, and ambient sounds with theme-appropriate descriptions
 - **Professional Documentation**: Complete walkthrough and user guides
+
+## 🖼️ Game Interfaces
+
+| Interface | Description |
+|---|---|
+| ![Combat Interface](./img/screenshots/combat_interface.png) | **Combat System**: Engage in turn-based battles using traditional cultivation abilities and martial arts. |
+| ![Menu System](./img/screenshots/menu_system.png) | **Menu System**: Navigate through a traditional Chinese-themed menu with elegant design and intuitive controls. |
+| ![Inventory Screen](./img/screenshots/inventory_screen.png) | **Inventory Management**: Organize your items, including healing herbs, spirit pills, and quest-related artifacts. |
+| ![Skill Development](./img/screenshots/skill_development.png) | **Skill Development**: Customize your character's abilities by investing cultivation points into different skill trees. |
 
 ## 🗺️ Quest Content
 
@@ -87,20 +110,19 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 - **Estimated Playtime**: 15-20 hours
 - **Character Levels**: 1-50 progression system
 - **Visual Maps**: 15 unique locations with character portraits and a stylized world map
-- **Audio Files**: 47 tracks and effects
+- **Audio Files**: 40 placeholder tracks and effects
 - **Documentation**: 2 comprehensive guides
 - **Project Files**: Complete RPG Maker MZ structure
 
 ## 🔄 Version History
 
-### Version 2.6.0 - Audio & World Map Edition (Current)
-- Complete RPG Maker MZ project structure
-- All visual and audio assets integrated (placeholder audio)
-- 15 custom-generated location maps and character portraits, plus a stylized world map
-- Comprehensive documentation with embedded graphics
-- Full quest system implementation
-- Professional-grade asset organization
+### Version 2.7.0 - Visual Showcase Edition (Current)
+- Added gameplay showcase video
+- Included main character portraits and descriptions
+- Integrated game interface mockups
+- Updated README.md with comprehensive visual content
 
 ---
 
 **Ready to begin your cultivation journey? Download the project and start exploring the mystical world of ancient China!**
+

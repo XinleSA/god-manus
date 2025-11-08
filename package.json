@@ -1,6 +1,6 @@
 {
     "name": "guardians-of-dafeng",
-    "version": "2.6.0",
+    "version": "2.7.0",
     "description": "A cultivation RPG based on the Guardians of Dafeng series",
     "main": "index.html",
     "scripts": {

@@ -203,5 +203,5 @@ The game features **5 major storylines**:
 
 ---
 
-**Game Version**: 2.6.0  
+**Game Version**: 2.7.0  
 **Total Content**: 17 Quests, 10+ Hours of Gameplay
