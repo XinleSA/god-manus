@@ -1,0 +1,4 @@
+file 'extended_showcase.mp4'
+file 'segment_character.mp4'
+file 'segment_quests.mp4'
+file 'segment_combat.mp4'
