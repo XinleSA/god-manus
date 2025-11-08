@@ -8,11 +8,11 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 ## 🎬 Gameplay Showcase
 
-https://github.com/XinleSA/god-manus/assets/168865499/1959a85a-8a5f-459f-855c-755a50a3250a
+<video src="./img/videos/game_showcase.mp4" width="100%" controls="controls" type="video/mp4"></video>
 
 ## 🗺️ World Map
 
-![World Map](https://github.com/XinleSA/god-manus/assets/168865499/2773188a-c5a5-4802-9591-9134a790560c)
+![World Map](./img/system/WorldMap.png)
 
 ## 🌟 Main Characters
 
