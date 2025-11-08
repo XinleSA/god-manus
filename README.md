@@ -17,7 +17,7 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 ### Technical Features
 - **Complete RPG Maker MZ Project**: Fully functional and ready to edit
 - **Custom Visual Assets**: 15 hand-crafted location maps and character portraits with authentic Chinese aesthetics
-- **Comprehensive Audio System**: 47 audio files including BGM, sound effects, and ambient sounds
+- **Comprehensive Audio System**: 40 placeholder audio files including BGM, sound effects, and ambient sounds with theme-appropriate descriptions
 - **Professional Documentation**: Complete walkthrough and user guides
 
 ## 🗺️ Quest Content
@@ -86,17 +86,17 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 - **Total Quests**: 17 (5 main + 12 side)
 - **Estimated Playtime**: 15-20 hours
 - **Character Levels**: 1-50 progression system
-- **Visual Maps**: 15 unique locations with character portraits
+- **Visual Maps**: 15 unique locations with character portraits and a stylized world map
 - **Audio Files**: 47 tracks and effects
 - **Documentation**: 2 comprehensive guides
 - **Project Files**: Complete RPG Maker MZ structure
 
 ## 🔄 Version History
 
-### Version 2.5.0 - Graphics Enhanced Edition (Current)
+### Version 2.6.0 - Audio & World Map Edition (Current)
 - Complete RPG Maker MZ project structure
-- All visual and audio assets integrated
-- 15 custom-generated location maps and character portraits
+- All visual and audio assets integrated (placeholder audio)
+- 15 custom-generated location maps and character portraits, plus a stylized world map
 - Comprehensive documentation with embedded graphics
 - Full quest system implementation
 - Professional-grade asset organization

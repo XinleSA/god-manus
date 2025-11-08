@@ -9,6 +9,12 @@
 
 ---
 
+## World Map
+
+![World Map](../img/system/WorldMap.png)
+
+---
+
 ## Getting Started
 
 ![Game Title](../img/system/GameTitle.png)
@@ -125,6 +131,39 @@ The game supports most standard gamepads:
 
 ---
 
+## Audio
+
+### Background Music (BGM)
+- **Theme01**: Main theme
+- **Academy01**: Dafeng Academy
+- **Lake01**: Sangbo Lake
+- **Capital01**: Imperial Capital
+- **Battle01**: Combat
+- **Temple01**: Ancient Temple
+- **Forest01**: Enchanted Forest
+- **Cave01**: Crystal Caves
+- **Victory01**: Victory Theme
+- **Ending01**: Ending Credits
+
+### Sound Effects (SE)
+- **Cursor01**: Menu navigation
+- **Decision01**: Menu confirmation
+- **Cancel01**: Menu cancellation
+- **Buzzer01**: Error
+- **Coin01**: Gaining money
+- **Item01**: Finding an item
+- **Equip01**: Equipping gear
+- **Save01**: Saving the game
+- **Load01**: Loading a save
+- **Bell01**: Temple bell
+- **Sword01**: Sword attack
+- **Magic01**: Casting a spell
+- **Heal01**: Healing spell
+- **Door01**: Opening a door
+- **Chest01**: Opening a chest
+
+---
+
 ## Tips for Beginners
 
 ### Character Development
@@ -164,5 +203,5 @@ The game features **5 major storylines**:
 
 ---
 
-**Game Version**: 2.5.0  
+**Game Version**: 2.6.0  
 **Total Content**: 17 Quests, 10+ Hours of Gameplay
