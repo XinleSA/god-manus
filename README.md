@@ -8,9 +8,9 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 ## 🎬 Gameplay Showcase
 
-![Gameplay Showcase](./img/videos/game_showcase_extended.gif)
+![Gameplay Showcase](./img/videos/game_showcase.gif)
 
-*Experience the complete mystical world of Dafeng with traditional Chinese cultivation themes, character development, quest exploration, combat systems, and magical abilities across four cultivation paths. This extended 45-second showcase demonstrates the full scope of gameplay features.*
+*Experience authentic RPG Maker MZ gameplay in the mystical world of Dafeng with traditional Chinese cultivation themes. Watch characters move through detailed environments, explore quest locations, develop cultivation abilities, and embark on epic adventures. This 32-second showcase demonstrates realistic gameplay mechanics and immersive RPG features.*
 
 ## 🗺️ World Map
 
