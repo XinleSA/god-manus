@@ -41,5 +41,77 @@
         ],
         "price": 500,
         "wtypeId": 2
+    },
+    {
+        "id": 3,
+        "animationId": 1,
+        "description": "A sharp blade favored by assassins.",
+        "etypeId": 1,
+        "iconIndex": 98,
+        "name": "Assassin\\'s Dagger",
+        "note": "",
+        "params": [0, 0, 15, 0, 0, 0, 10, 0],
+        "price": 150,
+        "wtypeId": 1
+    },
+    {
+        "id": 4,
+        "animationId": 11,
+        "description": "A heavy axe that can break through armor.",
+        "etypeId": 1,
+        "iconIndex": 100,
+        "name": "Battle Axe",
+        "note": "",
+        "params": [0, 0, 30, 0, -5, 0, 0, 0],
+        "price": 300,
+        "wtypeId": 4
+    },
+    {
+        "id": 5,
+        "animationId": 6,
+        "description": "A magical staff that enhances spiritual power.",
+        "etypeId": 1,
+        "iconIndex": 101,
+        "name": "Wizard\\'s Staff",
+        "note": "",
+        "params": [0, 20, 5, 0, 15, 0, 0, 0],
+        "price": 400,
+        "wtypeId": 5
+    },
+    {
+        "id": 6,
+        "animationId": 1,
+        "description": "A legendary blade said to be able to cut through mountains.",
+        "etypeId": 1,
+        "iconIndex": 104,
+        "name": "Mountain Cleaver",
+        "note": "",
+        "params": [0, 0, 50, 0, 0, 0, 0, 0],
+        "price": 1000,
+        "wtypeId": 2
+    },
+    {
+        "id": 7,
+        "animationId": 1,
+        "description": "A cursed sword that drains the life of its wielder.",
+        "etypeId": 1,
+        "iconIndex": 105,
+        "name": "Cursed Blade",
+        "note": "",
+        "params": [0, 0, 66, 0, -10, -10, -10, -10],
+        "price": 666,
+        "wtypeId": 2
+    },
+    {
+        "id": 8,
+        "animationId": 1,
+        "description": "The ultimate sword, forged in the heart of a star.",
+        "etypeId": 1,
+        "iconIndex": 106,
+        "name": "Star Forged Sword",
+        "note": "",
+        "params": [0, 0, 100, 0, 20, 20, 20, 20],
+        "price": 5000,
+        "wtypeId": 2
     }
 ]

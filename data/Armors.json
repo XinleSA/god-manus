@@ -39,5 +39,71 @@
             0
         ],
         "price": 200
+    },
+    {
+        "id": 3,
+        "atypeId": 1,
+        "description": "Light armor that allows for quick movements.",
+        "etypeId": 3,
+        "iconIndex": 130,
+        "name": "Leather Armor",
+        "note": "",
+        "params": [0, 0, 0, 10, 0, 5, 0, 0],
+        "price": 150
+    },
+    {
+        "id": 4,
+        "atypeId": 1,
+        "description": "Heavy armor that provides excellent protection.",
+        "etypeId": 4,
+        "iconIndex": 131,
+        "name": "Iron Armor",
+        "note": "",
+        "params": [0, 0, 0, 20, 0, -5, 0, 0],
+        "price": 300
+    },
+    {
+        "id": 5,
+        "atypeId": 1,
+        "description": "Robes worn by powerful mages.",
+        "etypeId": 2,
+        "iconIndex": 135,
+        "name": "Mage Robes",
+        "note": "",
+        "params": [0, 10, 0, 5, 10, 0, 0, 0],
+        "price": 400
+    },
+    {
+        "id": 6,
+        "atypeId": 1,
+        "description": "Legendary armor that protects against all elements.",
+        "etypeId": 4,
+        "iconIndex": 138,
+        "name": "Elemental Armor",
+        "note": "",
+        "params": [0, 0, 0, 30, 0, 0, 10, 10],
+        "price": 1000
+    },
+    {
+        "id": 7,
+        "atypeId": 1,
+        "description": "Cursed armor that slowly drains the wearer\\\'s life.",
+        "etypeId": 4,
+        "iconIndex": 139,
+        "name": "Cursed Mail",
+        "note": "",
+        "params": [0, 0, 0, 40, -10, -10, -10, -10],
+        "price": 666
+    },
+    {
+        "id": 8,
+        "atypeId": 1,
+        "description": "The ultimate armor, said to be impenetrable.",
+        "etypeId": 4,
+        "iconIndex": 140,
+        "name": "Aegis Armor",
+        "note": "",
+        "params": [0, 0, 0, 50, 10, 10, 10, 10],
+        "price": 5000
     }
 ]
