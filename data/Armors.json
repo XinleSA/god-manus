@@ -87,7 +87,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "Cursed armor that slowly drains the wearer\\\'s life.",
+        "description": "Cursed armor that slowly drains the wearer\\’s life.",
         "etypeId": 4,
         "iconIndex": 139,
         "name": "Cursed Mail",

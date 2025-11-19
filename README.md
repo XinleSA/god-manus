@@ -1,6 +1,6 @@
 # Guardians of the Dafeng RPG
 
-![Version](https://img.shields.io/badge/version-2.7.0-blue.svg)
+![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)
 ![RPG Maker MZ](https://img.shields.io/badge/RPG%20Maker%20MZ-1.8.0+-green.svg)
 ![Status](https://img.shields.io/badge/status-Complete-brightgreen.svg)
 
@@ -96,7 +96,7 @@ A comprehensive RPG adventure set in the mystical world of ancient China, inspir
 
 ## 🔄 Version History
 
-### Version 2.7.0 - Visual Showcase Edition (Current)
+### Version 3.0.0 - Final Release (100% Complete)
 - Added gameplay showcase video
 - Included main character portraits and descriptions
 - Integrated game interface mockups

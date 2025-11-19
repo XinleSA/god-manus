@@ -24,5 +24,9 @@
     "restriction": 0,
     "stepAnime": false,
     "traits": []
-  }
+    },
+    {"id":2,"iconIndex":2,"name":"Poison","restriction":0,"priority":60,"message1":" is poisoned!","message2":" is no longer poisoned.","message3":"","message4":" takes poison damage!","traits":[{"code":22,"dataId":7,"value":-0.1}]},
+    {"id":3,"iconIndex":3,"name":"Paralysis","restriction":4,"priority":70,"message1":" is paralyzed!","message2":" is no longer paralyzed.","message3":"","message4":"","traits":[]},
+    {"id":4,"iconIndex":4,"name":"Silence","restriction":0,"priority":80,"message1":" is silenced!","message2":" is no longer silenced.","message3":"","message4":"","traits":[{"code":42,"dataId":1,"value":0}]},
+    {"id":5,"iconIndex":5,"name":"Berserk","restriction":1,"priority":90,"message1":" is in a rage!","message2":" is no longer in a rage.","message3":"","message4":"","traits":[{"code":22,"dataId":0,"value":1.5},{"code":22,"dataId":1,"value":0.5}]}
 ]

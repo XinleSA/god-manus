@@ -1,6 +1,6 @@
 # Guardians of Dafeng RPG - Final Validation Report
 
-**Version: 2.7.0**
+**Version: 3.0.0**
 
 **Date: October 27, 2025**
 
